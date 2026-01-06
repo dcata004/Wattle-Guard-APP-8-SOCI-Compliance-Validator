@@ -1,0 +1,3 @@
+requests==2.31.0
+ip-api-tools>=0.1.0
+# Standard library dependencies: socket, ssl, json, datetime
