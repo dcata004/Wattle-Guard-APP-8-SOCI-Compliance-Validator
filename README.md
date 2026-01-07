@@ -22,6 +22,9 @@ Under the **Privacy Act 1988 (Cth)** and **APP 8 (Cross-border disclosure)**, Au
 ### How to Run
 ```bash
 python wattle_guard.py
+```
+
+
 
 ⚠️ Legal Disclaimer
 Wattle-Guard is a technical forensic tool, not legal advice. While this tool assists with APP 8 and SOCI Act due diligence, it does not guarantee compliance. Users should consult with their own legal counsel regarding specific cross-border data transfer obligations under the Privacy Legislation Amendment (Enforcement and Other Measures) Act 2022.
