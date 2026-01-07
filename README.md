@@ -6,6 +6,11 @@
 
 > **Status:** Available for nFADP & APP 8 Compliance Audits (Remote/Contract).
 
+
+>
+> [![DOI](https://zenodo.org/badge/1129325379.svg)](https://doi.org/10.5281/zenodo.18167680)
+
+
 ---
 
 ### 🛑 The Problem
