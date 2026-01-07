@@ -8,11 +8,11 @@
 
 
 
->
+
+
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18167681.svg)](https://doi.org/10.5281/zenodo.18167681)
 
-
----
 
 ### 🛑 The Problem
 Under the **Privacy Act 1988 (Cth)** and **APP 8 (Cross-border disclosure)**, Australian entities are liable if an overseas vendor mishandles personal data. With the new 2024 penalty regime ($50M or 30% turnover), "blindly trusting" US/EU vendors is no longer a viable strategy.
