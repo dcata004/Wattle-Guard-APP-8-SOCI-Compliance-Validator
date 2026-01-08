@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Wattle-Guard: Australian Sovereignty Validator"
+message: "If you use this software in your compliance workflows, please cite it as below."
+type: software
+authors:
+  - family-names: "Cata"
+    given-names: "Anthony D."
+    affiliation: "Cata Risk Lab"
+    orcid: "https://orcid.org/0009-0009-5137-3601" 
+version: 1.0.0
+date-released: 2026-01-08
+license: MIT
+repository-code: "https://huggingface.co/spaces/Cata-Risk-Lab/Wattle-Guard-AU"
+abstract: "An open-source forensic tool for validating AI vendor compliance with the Australian SOCI Act and APP 8. Automatically detects server jurisdiction and data sovereignty risks."
+keywords:
+  - "SOCI Act"
+  - "Australian Privacy Principles"
+  - "Data Sovereignty"
+  - "AI Governance"
