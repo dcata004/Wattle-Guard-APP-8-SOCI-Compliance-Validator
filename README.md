@@ -1,4 +1,4 @@
-# 🇦🇺 Wattle-Guard: APP 8 & SOCI Compliance Validator
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Live%20Demo-blue)][(https://huggingface.co/spaces/Cata-Risk-Lab/Veritas-Auditor)](https://huggingface.co/spaces/Cata-Risk-Lab/Wattle-Guard-AU)# 🇦🇺 Wattle-Guard: APP 8 & SOCI Compliance Validator
 
 **Automated Vendor Sovereignty Auditing for Australian Financial Institutions.**
 
